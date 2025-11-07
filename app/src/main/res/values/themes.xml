@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Theme duy nhất: Material3 + NoActionBar + tự DayNight theo hệ thống -->
+    <style name="Theme.Baitap01" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Nếu muốn chỉnh màu, thêm item ở đây -->
+        <!-- <item name="colorPrimary">@color/purple_500</item> -->
+    </style>
+</resources>
